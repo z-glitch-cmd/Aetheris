@@ -48,10 +48,9 @@ Copy and paste each command one by one into Ubuntu:
 sudo apt update && sudo apt install -y git lz4 android-sdk-libsparse-utils android-sdk-platform-tools brotli p7zip-full python3 binutils
 ```
 
-### 2. Download This Project
-*(Replace `YOUR_USERNAME/Aetheris` with your actual GitHub link)*
+### 2. Download This Repo
 ```bash
-git clone https://github.com
+git clone https://github.com/z-glitch-cmd/Aetheris
 ```
 ```bash
 cd Aetheris
