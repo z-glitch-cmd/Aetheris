@@ -143,5 +143,5 @@ python3 patch_lte.py
 
 * **Your warranty is now void.** I am not responsible for bricked devices.
 * **Credits:** Built on top of the community One UI 8.5 port for the Samsung Galaxy Tab S6 Lite 2022 (`gta4xlve`).
-  * **Unlocked Bootloader:** Need help unlocking? See [UNLOCK_BOOTLOADER.md](UNLOCK_BOOTLOADER.md).
+  * **Unlocked Bootloader:** Need help unlocking? See [UNLOCK_Bootloader.md](UNLOCK_Bootloader.md).
 
