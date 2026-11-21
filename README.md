@@ -120,7 +120,7 @@ python3 patch_lte.py
 ## 📲 How to Flash on Your Tablet
 
 > 🚨 **CRITICAL WARNING:**  
-> **Never flash the stock `CP_*.tar.md5` modem file in Odin after installing a custom recovery/ROM!** Doing so turns Secure Boot back on and blocks your tablet from booting. Stay on stock One UI 6.1 *before* flashing LineageOS Recovery so your modem stays intact.
+> **Never check `Nand Erase`!** It can delete your IMEI, making you have NO way to call and text. **Never flash the stock `CP_*.tar.md5` modem file in Odin after installing a custom recovery/ROM!** Doing so turns Secure Boot back on and blocks your tablet from booting. Stay on stock One UI 6.1 *before* flashing LineageOS Recovery so your modem stays intact.
 
 1. **Install LineageOS Recovery:**
    * Boot your `SM-P619` into **Download Mode** (`Volume Up + Volume Down` while plugging in the USB cable).
