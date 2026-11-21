@@ -1,6 +1,6 @@
 # Aetheris — One UI 8.5 LTE Patcher (`SM-P619`)
 
-A simple tool that adds working LTE mobile data, calls, and SMS to `SM-P613` (Wi-Fi) One UI 8.5 ports so they work on the **Samsung Galaxy Tab S6 Lite 2022 LTE (`SM-P619`)**.
+A simple tool that adds working LTE mobile data, calls, and SMS to `SM-P613` (Wi-Fi) One UI 8.5 ports so they work on the **Samsung Galaxy Tab S6 Lite 2022 LTE (`SM-P619`)**. **Please note that this has not been tested yet, do not use this patched til it is tested fully working.**
 
 > ⚠️ **WARNING & DISCLAIMER**  
 > **I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.**  
