@@ -49,9 +49,8 @@ sudo apt update && sudo apt install -y git lz4 android-sdk-libsparse-utils andro
 ```
 
 ### 2. Download This Project
-*(Replace `YOUR_USERNAME/Aetheris` with your actual GitHub link)*
 ```bash
-git clone https://github.com
+git clone https://github.com/z-glitch-cmd/Aetheris
 ```
 ```bash
 cd Aetheris
