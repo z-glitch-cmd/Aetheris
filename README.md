@@ -49,8 +49,9 @@ sudo apt update && sudo apt install -y git lz4 android-sdk-libsparse-utils andro
 ```
 
 ### 2. Download This Project
+*(Replace `YOUR_USERNAME/Aetheris` with your actual GitHub link)*
 ```bash
-git clone https://github.com/z-glitch-cmd/Aetheris
+git clone https://github.com
 ```
 ```bash
 cd Aetheris
@@ -142,4 +143,3 @@ python3 patch_lte.py
 
 * **Your warranty is now void.** I am not responsible for bricked devices.
 * **Credits:** Built on top of the community One UI 8.5 port for the Samsung Galaxy Tab S6 Lite 2022 (`gta4xlve`).
-
